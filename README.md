@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mnoguerol7778. I´m from Argentina! My major was petroleum engineering but I´m interested in data analysis for mechanical failure prediction.
+- 👀 I’m interested in data analysis, time series analysis, predictive maintenance, etc
+- 🌱 I’m currently learning python and SQL
+- 💞️ I’m looking to collaborate on data science projects about maintenance or energy.
+- 📫 How to reach me martinoguerol@gmail.com
